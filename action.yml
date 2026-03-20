@@ -46,5 +46,5 @@ outputs:
   folderFiles:
     description: List of file names and IDs from the folder
 runs:
-  using: node20
+  using: node24
   main: dist/index.js
