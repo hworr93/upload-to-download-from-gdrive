@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
 
 env:
-  folderId: "1GIxifkGolQsOrNLFbQ6Z_n478_yG63Zz"
+  folderId: "1Z2JWpEG0NGkBwKINUGAc7CbrSG8jtHiR"
 jobs:
   uploadtest:
     name: Testing the Google Drive Upload
